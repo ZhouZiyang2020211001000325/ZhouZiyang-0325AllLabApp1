@@ -1,0 +1,11 @@
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\bin\Debug\LabAss2.exe.config
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\bin\Debug\LabAss2.exe
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\bin\Debug\LabAss2.pdb
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.AssemblyReference.cache
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.SuggestedBindingRedirects.cache
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.Form1.resources
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.Properties.Resources.resources
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.GenerateResource.cache
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.CoreCompileInputs.cache
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.exe
+F:\vis\code\1\ZhouZiyang-0325AllLabApp\LabAss2\obj\Debug\LabAss2.pdb
